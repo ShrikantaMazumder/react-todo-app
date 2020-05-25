@@ -1,0 +1,14 @@
+.todo {
+  display: flex;
+  min-width: 300px;
+  color: #fff;
+  background-color: #8e44ad;
+  height: 50px;
+  border-radius: 5px;
+  margin: 20px auto;
+  position: relative;
+}
+.todo button {
+  position: absolute;
+  right: 10px;
+}

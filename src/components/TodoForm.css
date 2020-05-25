@@ -1,0 +1,22 @@
+.todo-form input {
+  background-color: rgb(27, 112, 137);
+  color: #fff;
+  border-radius: 5px;
+  padding: 9px;
+}
+.todo-form input:focus {
+  outline: none;
+}
+.todo-form input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+.todo-form button{
+  background-color: rgb(202, 156, 24);
+  margin-top: 15px;
+  margin-left: 5px;
+  font-weight: bolder;
+  color: #fff;
+}
+.todo-form button:hover{
+  background-color: #f1c40f;
+}
